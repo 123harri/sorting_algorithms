@@ -15,7 +15,8 @@ void exchange_integers(int *a, int *b)
 }
 
 /**
- * merge_bitonic_sequence - Sort a bitonic sequence inside an array of integers.
+ * merge_bitonic_sequence - Sort a bitonic sequence inside
+ * an array of integers.
  * @arr: An array of integers.
  * @size: The size of the array.
  * @start: The starting index of the sequence in array to sort.
@@ -41,7 +42,8 @@ void merge_bitonic_sequence(int *arr, size_t size,
 }
 
 /**
- * build_bitonic_sequence - Convert an array of integers into a bitonic sequence.
+ * build_bitonic_sequence - Convert an array of integers into
+ * a bitonic sequence.
  * @arr: An array of integers.
  * @size: The size of the array.
  * @start: The starting index of a block of the building bitonic sequence.
